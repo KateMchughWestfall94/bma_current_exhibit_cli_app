@@ -1,5 +1,2 @@
-require "bma_current_exhibits/version"
-
-module BmaCurrentExhibits
-  # Your code goes here...
-end
+require_relative "bma_current_exhibits/version"
+require_relative "bma_current_exhibits/cli"
