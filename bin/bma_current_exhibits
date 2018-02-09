@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "./lib/bma_current_exhibits"
+
+BmaCurrentExhibits::CLI.new.call
